@@ -1,6 +1,6 @@
 # My Math Website
 
-Copyright (C) 2024 Fronx
+📚 Copyright (C) 2024 Fronx
 
 Welcome to my Math Website repository! This website is written in HTML and JavaScript and currently includes the following features:
 
@@ -11,23 +11,23 @@ Welcome to my Math Website repository! This website is written in HTML and JavaS
 
 ## Updates and Future Plans
 
-I am actively working on this project and plan to update the repository over time. I intend to add new mathematical functions and features to enhance the functionality of the website.
+🚀 I am actively working on this project and plan to update the repository over time. I intend to add new mathematical functions and features to enhance the functionality of the website.
 
 ## Contributions Welcome
 
-Contributions to this project are highly encouraged! Whether you're interested in adding new features, fixing bugs, or improving documentation, your contributions are valuable. Please feel free to submit pull requests or open issues.
+🤝 Contributions to this project are highly encouraged! Whether you're interested in adding new features, fixing bugs, or improving documentation, your contributions are valuable. Please feel free to submit pull requests or open issues.
 
 ## Collaboration Opportunity
 
-I am also open to collaborating with others on this project. If you're interested in working together to improve this Math Website or have ideas for new features, don't hesitate to reach out. Let's build something great together!
+👨‍💻 I am also open to collaborating with others on this project. If you're interested in working together to improve this Math Website or have ideas for new features, don't hesitate to reach out. Let's build something great together!
 
 ## Technology Used
 
-This project utilizes [Math.js](https://mathjs.org/) to handle mathematical computations and operations.
+🔢 This project utilizes [Math.js](https://mathjs.org/) to handle mathematical computations and operations.
 
 ## License and Disclaimer
 
-This project is licensed under the terms of the Apache License 2.0. Please see the [LICENSE](LICENSE) file for details. By using this software, you agree to comply with the terms of the license, including providing appropriate attribution and including the disclaimer provided by the license.
+📝 This project is licensed under the terms of the Apache License 2.0. Please see the [LICENSE](LICENSE) file for details. By using this software, you agree to comply with the terms of the license, including providing appropriate attribution and including the disclaimer provided by the license.
 
 **No Endorsement**: Please note that Math.js and its contributors do not endorse or promote this project.
 
