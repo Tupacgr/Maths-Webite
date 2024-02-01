@@ -3,9 +3,12 @@ function calculate () {
     let ex2 = document.getElementById('ex2').value;
     let fun = document.getElementById('fun').value;
     let f = document.getElementById('f');
-    let a = document.getElementById('a');
     if (ex2>ex1) {
         let m1 = Math.floor(Math.random() * (ex2 - ex1) + ex1);
+        while (m1==0) {
+            m1 = Math.floor(Math.random() * (ex2 - ex1) + ex1);
+        }
+        console.log(m1);
         let fun1 = fun.replace(/x/g,-m1);
         console.log(fun1);
         let fun2 = fun.replace(/x/g,m1);
@@ -23,7 +26,8 @@ function calculate () {
         alert('Please type two extremes in ascending order!');
     }
 }
-//setInterval(calculate, 500);
+let calculate1 = document.getElementById('calculate1');
+calculate1.addEventListener('click', calculate, true);
 function home1 () {
     window.location.href='../html_files/index.html';
 }
